@@ -20,7 +20,13 @@ public class PlayerInputHandler : MonoBehaviour
     public Joystick cameramovement;
     
     public Joystick firebutton;
+
+    public Joystick jumpbuttonUI;
+
+    public Joystick switchweaponUI;
     public static bool fireButtonbool;
+
+    public bool jumpButtonUIbool = false;
 
     GameFlowManager m_GameFlowManager;
     PlayerCharacterController m_PlayerCharacterController;
@@ -85,22 +91,59 @@ public class PlayerInputHandler : MonoBehaviour
 
     public bool GetJumpInputDown()
     {
+        
         if (CanProcessInput())
         {
             return Input.GetButtonDown(GameConstants.k_ButtonNameJump);
         }
 
         return false;
+        
+        /*
+        if(jumpbuttonUI.Horizontal != 0){
+            Debug.Log(jumpbuttonUI.Horizontal);
+            jumpButtonUIbool = true;
+
+        }
+        else{
+            jumpButtonUIbool = false;
+        }
+
+        return jumpbuttonUI;
+        */
     }
+
+    public bool JumpUIbuttonbool(){
+
+        if(jumpbuttonUI.Horizontal != 0){
+            Debug.Log(jumpbuttonUI.Horizontal);
+            jumpButtonUIbool = true;
+
+        }
+        else{
+            jumpButtonUIbool = false;
+        }
+
+        return jumpbuttonUI;
+
+
+
+    }
+
+
 
     public bool GetJumpInputHeld()
     {
+        
         if (CanProcessInput())
         {
             return Input.GetButton(GameConstants.k_ButtonNameJump);
         }
 
         return false;
+        
+
+        //return JumpUIbuttonbool();
     }
 
     public bool GetFireInputDown()
@@ -187,16 +230,27 @@ public class PlayerInputHandler : MonoBehaviour
         {
 
             bool isGamepad = Input.GetAxis(GameConstants.k_ButtonNameGamepadSwitchWeapon) != 0f;
-            string axisName = isGamepad ? GameConstants.k_ButtonNameGamepadSwitchWeapon : GameConstants.k_ButtonNameSwitchWeapon;
+            //string axisName = isGamepad ? GameConstants.k_ButtonNameGamepadSwitchWeapon : GameConstants.k_ButtonNameSwitchWeapon;
+            
+            //string axisName = isGamepad ? GameConstants.k_ButtonNameGamepadSwitchWeapon : switchweaponUI.Horizontal;
 
+            /*
             if (Input.GetAxis(axisName) > 0f)
                 return -1;
             else if (Input.GetAxis(axisName) < 0f)
                 return 1;
-            else if (Input.GetAxis(GameConstants.k_ButtonNameNextWeapon) > 0f)
+            else
+            
+            if (Input.GetAxis(GameConstants.k_ButtonNameNextWeapon) > 0f)
                 return -1;
             else if (Input.GetAxis(GameConstants.k_ButtonNameNextWeapon) < 0f)
                 return 1;
+                */
+            if(switchweaponUI.Horizontal > 0f)
+                return -1;
+            else if (switchweaponUI.Horizontal < 0f)
+                return 1;
+            
         }
 
         return 0;
