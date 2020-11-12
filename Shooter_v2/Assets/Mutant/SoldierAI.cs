@@ -11,7 +11,11 @@ public class SoldierAI : MonoBehaviour
 
     public bool isfiring = false;
     public GameObject theSoldier;
+
+    public GameObject thePlayer;
     public float firerate = 1.5f;
+
+    public GameObject bullet;
     // Update is called once per frame
     void Update()
     {
@@ -21,6 +25,8 @@ public class SoldierAI : MonoBehaviour
             hitTag = hit.transform.tag;
         }
         if(hitTag == "Player" && isfiring == false){
+            GameObject bulletObject = Instantiate(bullet,transform.position,transform.rotation);
+            //bulletObject.transform.position = transform.position;
             StartCoroutine(EnemyFire());
         }
         if(hitTag != "Player"){
@@ -30,9 +36,14 @@ public class SoldierAI : MonoBehaviour
     }
     IEnumerator EnemyFire(){
         isfiring = true;
+        
+        theSoldier.GetComponent<Animator>().Play("Fire 1Pistol",-1,0);
         theSoldier.GetComponent<Animator>().Play("Fire 1Pistol");
         fireSound.Play();
         lookingAtPlayer = true;
+        //Health h = thePlayer.GetComponent<Health>();
+        //Health h = new Health();
+        //h.TakeDamage(10,theSoldier);
         yield return new WaitForSeconds(firerate);
         isfiring = false;
     }
