@@ -4530,7 +4530,8 @@ MonoBehaviour:
   lookingAtPlayer: 0
   isfiring: 0
   theSoldier: {fileID: 577252895}
-  firerate: 1
+  thePlayer: {fileID: 2729281214152228921}
+  firerate: 2
   bullet: {fileID: 3659995153115176983, guid: 3c6b27d949cdda749892906e1f1d1b27, type: 3}
 --- !u!1001 &2038834551
 PrefabInstance:

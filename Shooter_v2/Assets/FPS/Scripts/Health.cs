@@ -72,7 +72,7 @@ public class Health : MonoBehaviour
         HandleDeath();
     }
 
-    private void HandleDeath()
+    public void HandleDeath()
     {
         if (m_IsDead)
             return;

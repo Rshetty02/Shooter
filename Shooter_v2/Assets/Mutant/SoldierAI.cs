@@ -13,7 +13,7 @@ public class SoldierAI : MonoBehaviour
     public GameObject theSoldier;
 
     public GameObject thePlayer;
-    public float firerate = 1.5f;
+    public float firerate = 2f;
 
     public GameObject bullet;
     // Update is called once per frame
@@ -41,9 +41,19 @@ public class SoldierAI : MonoBehaviour
         theSoldier.GetComponent<Animator>().Play("Fire 1Pistol");
         fireSound.Play();
         lookingAtPlayer = true;
+
+        Health h = thePlayer.GetComponent<Health>();
+        h.currentHealth -= 10;
+        h.HandleDeath(); 
+
+        //Health.currentHealth -= 10;
+
+        // call OnDamage action
+
+
         //Health h = thePlayer.GetComponent<Health>();
         //Health h = new Health();
-        //h.TakeDamage(10,theSoldier);
+        //h.TakeDamage(100,theSoldier);
         yield return new WaitForSeconds(firerate);
         isfiring = false;
     }
