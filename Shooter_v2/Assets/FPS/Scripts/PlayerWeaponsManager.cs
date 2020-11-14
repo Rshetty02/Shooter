@@ -79,6 +79,10 @@ public class PlayerWeaponsManager : MonoBehaviour
     WeaponSwitchState m_WeaponSwitchState;
     int m_WeaponSwitchNewWeaponIndex;
 
+    public float targetdistance;
+
+    public int damageAmount = 5;
+
     private void Start()
     {
         activeWeaponIndex = -1;
@@ -158,6 +162,8 @@ public class PlayerWeaponsManager : MonoBehaviour
                 {
                     isPointingAtEnemy = true;
                 }
+                targetdistance = hit.distance;
+                hit.transform.SendMessage("DamageEnemy",damageAmount,SendMessageOptions.DontRequireReceiver);
             }
         }
     }
