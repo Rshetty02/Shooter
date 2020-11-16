@@ -126,6 +126,7 @@
      <Compile Include="Assets\Mutant\GoldPickup.cs" />
      <Compile Include="Assets\Mutant\LookPlayer.cs" />
      <Compile Include="Assets\Mutant\MutantAI.cs" />
+     <Compile Include="Assets\Mutant\MutantDeath.cs" />
      <Compile Include="Assets\Mutant\SimpleMutantMove.cs" />
      <Compile Include="Assets\Mutant\SoldierAI.cs" />
      <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />

@@ -31,6 +31,7 @@ public class MutantAI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
     RaycastHit hit;
 
         if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.forward),out hit)){
@@ -50,7 +51,10 @@ public class MutantAI : MonoBehaviour
             theSoldier.GetComponent<Animator>().Play("Mutant Idle");
             theAgent.ResetPath();
             lookingAtPlayer = false;    
-    }
+        }
+
+        StartCoroutine(Attack());
+
     }
 
     //IEnumerator 
@@ -79,18 +83,36 @@ public class MutantAI : MonoBehaviour
         //Health h = thePlayer.GetComponent<Health>();
         //Health h = new Health();
         //h.TakeDamage(100,theSoldier);
-        yield return new WaitForSeconds(0);
+        yield return new WaitForSeconds(2);
         //isRunning = false;
     }
 
+
+    IEnumerator Attack(){
+        if(isAttacking == true){
+        Debug.Log("Attacking");
+        
+        this.GetComponent<Animator>().Play("Mutant Swiping");
+        //this.GetComponent<Animator>().Play("Mutant Swiping",-1,0);
+        yield return new WaitForSeconds(3);
+        Health h = thePlayer.GetComponent<Health>();
+        h.currentHealth -= 0.05f;
+        h.HandleDeath(); 
+        }
+
+    }
         private void OnTriggerEnter(Collider other) {                                                                       
   
         if(other.tag == "Player" && isAttacking == false){  
         isRunning = false;
         isAttacking = true; 
+        /*
         Debug.Log("Attacking");
         this.GetComponent<Animator>().Play("Mutant Swiping");
-        
+        Health h = thePlayer.GetComponent<Health>();
+        h.currentHealth -= 10;
+        h.HandleDeath(); 
+        */
         }
         }
 
