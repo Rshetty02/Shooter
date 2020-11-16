@@ -1,2 +1,1538 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=2254 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1602 outsize=3258 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1460 outsize=2070 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1460 outsize=1894 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=7381 outsize=7381 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=9860 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=9860 outsize=9860 ok=1
+Cmd: disassembleShader
+  api=9 insize=8910 outsize=8910 ok=1
+Cmd: disassembleShader
+  api=9 insize=10195 outsize=10195 ok=1
+Cmd: disassembleShader
+  api=9 insize=8991 outsize=8991 ok=1
+Cmd: disassembleShader
+  api=9 insize=9022 outsize=9022 ok=1
+Cmd: disassembleShader
+  api=9 insize=10347 outsize=10347 ok=1
+Cmd: disassembleShader
+  api=9 insize=10392 outsize=10392 ok=1
+Cmd: disassembleShader
+  api=9 insize=8153 outsize=8153 ok=1
+Cmd: disassembleShader
+  api=9 insize=8352 outsize=8352 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=9449 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9449 outsize=9449 ok=1
+Cmd: disassembleShader
+  api=9 insize=7967 outsize=7967 ok=1
+Cmd: disassembleShader
+  api=9 insize=9471 outsize=9471 ok=1
+Cmd: disassembleShader
+  api=9 insize=8891 outsize=8891 ok=1
+Cmd: disassembleShader
+  api=9 insize=8594 outsize=8594 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=10229 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=10229 outsize=10229 ok=1
+Cmd: disassembleShader
+  api=9 insize=8325 outsize=8325 ok=1
+Cmd: disassembleShader
+  api=9 insize=8637 outsize=8637 ok=1
+Cmd: disassembleShader
+  api=9 insize=8516 outsize=8516 ok=1
+Cmd: disassembleShader
+  api=9 insize=7866 outsize=7866 ok=1
+Cmd: disassembleShader
+  api=9 insize=8102 outsize=8102 ok=1
+Cmd: disassembleShader
+  api=9 insize=9493 outsize=9493 ok=1
+Cmd: disassembleShader
+  api=9 insize=9729 outsize=9729 ok=1
+Cmd: disassembleShader
+  api=9 insize=8001 outsize=8001 ok=1
+Cmd: disassembleShader
+  api=9 insize=8237 outsize=8237 ok=1
+Cmd: disassembleShader
+  api=9 insize=7998 outsize=7998 ok=1
+Cmd: disassembleShader
+  api=9 insize=8234 outsize=8234 ok=1
+Cmd: disassembleShader
+  api=9 insize=9602 outsize=9602 ok=1
+Cmd: disassembleShader
+  api=9 insize=10951 outsize=10951 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=10015 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=10015 outsize=10015 ok=1
+Cmd: disassembleShader
+  api=9 insize=10163 outsize=10163 ok=1
+Cmd: disassembleShader
+  api=9 insize=8667 outsize=8667 ok=1
+Cmd: disassembleShader
+  api=5 insize=7627 outsize=7627 ok=1
+Cmd: disassembleShader
+  api=5 insize=8922 outsize=8922 ok=1
+Cmd: disassembleShader
+  api=5 insize=9343 outsize=9343 ok=1
+Cmd: disassembleShader
+  api=9 insize=10105 outsize=10105 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=11706 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11706 outsize=11706 ok=1
+Cmd: disassembleShader
+  api=9 insize=12343 outsize=12343 ok=1
+Cmd: disassembleShader
+  api=9 insize=12206 outsize=12206 ok=1
+Cmd: disassembleShader
+  api=9 insize=10743 outsize=10743 ok=1
+Cmd: disassembleShader
+  api=9 insize=10942 outsize=10942 ok=1
+Cmd: disassembleShader
+  api=9 insize=12061 outsize=12061 ok=1
+Cmd: disassembleShader
+  api=5 insize=8567 outsize=8567 ok=1
+Cmd: disassembleShader
+  api=5 insize=8784 outsize=8784 ok=1
+Cmd: disassembleShader
+  api=5 insize=8552 outsize=8552 ok=1
+Cmd: disassembleShader
+  api=5 insize=8769 outsize=8769 ok=1
+Cmd: disassembleShader
+  api=5 insize=10132 outsize=10132 ok=1
+Cmd: disassembleShader
+  api=5 insize=11378 outsize=11378 ok=1
+Cmd: disassembleShader
+  api=5 insize=11252 outsize=11252 ok=1
+Cmd: disassembleShader
+  api=5 insize=7581 outsize=7581 ok=1
+Cmd: disassembleShader
+  api=5 insize=7798 outsize=7798 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=9182 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=9182 outsize=9182 ok=1
+Cmd: disassembleShader
+  api=5 insize=9100 outsize=9100 ok=1
+Cmd: disassembleShader
+  api=5 insize=10347 outsize=10347 ok=1
+Cmd: disassembleShader
+  api=5 insize=10841 outsize=10841 ok=1
+Cmd: disassembleShader
+  api=5 insize=7808 outsize=7808 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=8946 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL VERTEXLIGHT_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8946 outsize=8946 ok=1
+Cmd: disassembleShader
+  api=9 insize=7389 outsize=7389 ok=1
+Cmd: disassembleShader
+  api=5 insize=7904 outsize=7904 ok=1
+Cmd: disassembleShader
+  api=5 insize=7798 outsize=7798 ok=1
+Cmd: disassembleShader
+  api=5 insize=6630 outsize=6630 ok=1
+Cmd: disassembleShader
+  api=5 insize=6810 outsize=6810 ok=1
+Cmd: disassembleShader
+  api=9 insize=8755 outsize=8755 ok=1
+Cmd: disassembleShader
+  api=9 insize=8979 outsize=8979 ok=1
+Cmd: disassembleShader
+  api=9 insize=7497 outsize=7497 ok=1
+Cmd: disassembleShader
+  api=9 insize=7696 outsize=7696 ok=1
+Cmd: disassembleShader
+  api=9 insize=7531 outsize=7531 ok=1
+Cmd: disassembleShader
+  api=9 insize=7730 outsize=7730 ok=1
+Cmd: disassembleShader
+  api=9 insize=8863 outsize=8863 ok=1
+Cmd: disassembleShader
+  api=9 insize=9062 outsize=9062 ok=1
+Cmd: disassembleShader
+  api=9 insize=8951 outsize=8951 ok=1
+Cmd: disassembleShader
+  api=9 insize=6600 outsize=6600 ok=1
+Cmd: disassembleShader
+  api=5 insize=5783 outsize=5783 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=6924 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL VERTEXLIGHT_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=6924 outsize=6924 ok=1
+Cmd: disassembleShader
+  api=5 insize=5878 outsize=5878 ok=1
+Cmd: disassembleShader
+  api=9 insize=6990 outsize=6990 ok=1
+Cmd: disassembleShader
+  api=9 insize=8013 outsize=8013 ok=1
+Cmd: disassembleShader
+  api=9 insize=7381 outsize=7381 ok=1
+Cmd: disassembleShader
+  api=9 insize=10432 outsize=10432 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=12919 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=12919 outsize=12919 ok=1
+Cmd: disassembleShader
+  api=9 insize=12032 outsize=12032 ok=1
+Cmd: disassembleShader
+  api=5 insize=8870 outsize=8870 ok=1
+Cmd: disassembleShader
+  api=5 insize=9087 outsize=9087 ok=1
+Cmd: disassembleShader
+  api=5 insize=10430 outsize=10430 ok=1
+Cmd: disassembleShader
+  api=5 insize=10647 outsize=10647 ok=1
+Cmd: disassembleShader
+  api=5 insize=9754 outsize=9754 ok=1
+Cmd: disassembleShader
+  api=5 insize=9934 outsize=9934 ok=1
+Cmd: disassembleShader
+  api=5 insize=9758 outsize=9758 ok=1
+Cmd: disassembleShader
+  api=5 insize=9938 outsize=9938 ok=1
+Cmd: disassembleShader
+  api=5 insize=11125 outsize=11125 ok=1
+Cmd: disassembleShader
+  api=5 insize=11305 outsize=11305 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=11348 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=11348 outsize=11348 ok=1
+Cmd: disassembleShader
+  api=5 insize=9760 outsize=9760 ok=1
+Cmd: disassembleShader
+  api=9 insize=11234 outsize=11234 ok=1
+Cmd: disassembleShader
+  api=9 insize=9744 outsize=9744 ok=1
+Cmd: disassembleShader
+  api=5 insize=8957 outsize=8957 ok=1
+Cmd: disassembleShader
+  api=5 insize=10233 outsize=10233 ok=1
+Cmd: disassembleShader
+  api=5 insize=10641 outsize=10641 ok=1
+Cmd: disassembleShader
+  api=5 insize=7669 outsize=7669 ok=1
+Cmd: disassembleShader
+  api=9 insize=10679 outsize=10679 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=11775 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN VERTEXLIGHT_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11775 outsize=11775 ok=1
+Cmd: disassembleShader
+  api=5 insize=9598 outsize=9598 ok=1
+Cmd: disassembleShader
+  api=5 insize=9511 outsize=9511 ok=1
+Cmd: disassembleShader
+  api=5 insize=8344 outsize=8344 ok=1
+Cmd: disassembleShader
+  api=5 insize=8524 outsize=8524 ok=1
+Cmd: disassembleShader
+  api=5 insize=9689 outsize=9689 ok=1
+Cmd: disassembleShader
+  api=9 insize=9729 outsize=9729 ok=1
+Cmd: disassembleShader
+  api=9 insize=8001 outsize=8001 ok=1
+Cmd: disassembleShader
+  api=9 insize=8237 outsize=8237 ok=1
+Cmd: disassembleShader
+  api=9 insize=7998 outsize=7998 ok=1
+Cmd: disassembleShader
+  api=9 insize=8234 outsize=8234 ok=1
+Cmd: disassembleShader
+  api=9 insize=9602 outsize=9602 ok=1
+Cmd: disassembleShader
+  api=9 insize=9838 outsize=9838 ok=1
+Cmd: disassembleShader
+  api=9 insize=9669 outsize=9669 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=11050 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11050 outsize=11050 ok=1
+Cmd: disassembleShader
+  api=5 insize=7397 outsize=7397 ok=1
+Cmd: disassembleShader
+  api=5 insize=7599 outsize=7599 ok=1
+Cmd: disassembleShader
+  api=9 insize=8935 outsize=8935 ok=1
+Cmd: disassembleShader
+  api=9 insize=10187 outsize=10187 ok=1
+Cmd: disassembleShader
+  api=9 insize=10455 outsize=10455 ok=1
+Cmd: disassembleShader
+  api=9 insize=13712 outsize=13712 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=14833 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=14833 outsize=14833 ok=1
+Cmd: disassembleShader
+  api=9 insize=13706 outsize=13706 ok=1
+Cmd: disassembleShader
+  api=5 insize=12753 outsize=12753 ok=1
+Cmd: disassembleShader
+  api=5 insize=10321 outsize=10321 ok=1
+Cmd: disassembleShader
+  api=9 insize=13768 outsize=13768 ok=1
+Cmd: disassembleShader
+  api=9 insize=10653 outsize=10653 ok=1
+Cmd: disassembleShader
+  api=9 insize=10889 outsize=10889 ok=1
+Cmd: disassembleShader
+  api=9 insize=12230 outsize=12230 ok=1
+Cmd: disassembleShader
+  api=9 insize=12466 outsize=12466 ok=1
+Cmd: disassembleShader
+  api=9 insize=10777 outsize=10777 ok=1
+Cmd: disassembleShader
+  api=9 insize=11013 outsize=11013 ok=1
+Cmd: disassembleShader
+  api=9 insize=12407 outsize=12407 ok=1
+Cmd: disassembleShader
+  api=9 insize=12631 outsize=12631 ok=1
+Cmd: disassembleShader
+  api=9 insize=13727 outsize=13727 ok=1
+Cmd: disassembleShader
+  api=5 insize=12838 outsize=12838 ok=1
+Cmd: disassembleShader
+  api=5 insize=10391 outsize=10391 ok=1
+Cmd: disassembleShader
+  api=5 insize=10593 outsize=10593 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=11706 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=11706 outsize=11706 ok=1
+Cmd: disassembleShader
+  api=9 insize=11931 outsize=11931 ok=1
+Cmd: disassembleShader
+  api=5 insize=10629 outsize=10629 ok=1
+Cmd: disassembleShader
+  api=5 insize=10219 outsize=10219 ok=1
+Cmd: disassembleShader
+  api=5 insize=6800 outsize=6800 ok=1
+Cmd: disassembleShader
+  api=9 insize=8811 outsize=8811 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1602 outsize=9930 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9930 outsize=9930 ok=1
+Cmd: disassembleShader
+  api=5 insize=7702 outsize=7702 ok=1
+Cmd: disassembleShader
+  api=5 insize=6767 outsize=6767 ok=1
+Cmd: disassembleShader
+  api=5 insize=6642 outsize=6642 ok=1
+Cmd: disassembleShader
+  api=5 insize=6081 outsize=6081 ok=1
+Cmd: disassembleShader
+  api=5 insize=6298 outsize=6298 ok=1
+Cmd: disassembleShader
+  api=5 insize=7718 outsize=7718 ok=1
+Cmd: disassembleShader
+  api=5 insize=8163 outsize=8163 ok=1
+Cmd: disassembleShader
+  api=5 insize=6690 outsize=6690 ok=1
+Cmd: disassembleShader
+  api=5 insize=6870 outsize=6870 ok=1
+Cmd: disassembleShader
+  api=5 insize=6701 outsize=6701 ok=1
+Cmd: disassembleShader
+  api=5 insize=6881 outsize=6881 ok=1
+Cmd: disassembleShader
+  api=5 insize=8026 outsize=8026 ok=1
+Cmd: disassembleShader
+  api=5 insize=8206 outsize=8206 ok=1
+Cmd: disassembleShader
+  api=5 insize=8116 outsize=8116 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1602 outsize=8296 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8296 outsize=8296 ok=1
+Cmd: disassembleShader
+  api=5 insize=5698 outsize=5698 ok=1
+Cmd: disassembleShader
+  api=5 insize=5878 outsize=5878 ok=1
+Cmd: disassembleShader
+  api=9 insize=6990 outsize=6990 ok=1
+Cmd: disassembleShader
+  api=9 insize=8208 outsize=8208 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1602 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=6876 outsize=6876 ok=1
+Cmd: disassembleShader
+  api=5 insize=4870 outsize=4870 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=6388 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=6388 outsize=6388 ok=1
+Cmd: disassembleShader
+  api=5 insize=4164 outsize=4164 ok=1
+Cmd: disassembleShader
+  api=5 insize=5468 outsize=5468 ok=1
+Cmd: disassembleShader
+  api=5 insize=5480 outsize=5480 ok=1
+Cmd: disassembleShader
+  api=5 insize=6876 outsize=6876 ok=1
+Cmd: disassembleShader
+  api=9 insize=8279 outsize=8279 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=9626 kw=UNITY_PASS_FORWARDADD SPOT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9626 outsize=9626 ok=1
+Cmd: disassembleShader
+  api=5 insize=5427 outsize=5427 ok=1
+Cmd: disassembleShader
+  api=5 insize=6880 outsize=6880 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=7863 kw=UNITY_PASS_FORWARDADD POINT_COOKIE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7863 outsize=7863 ok=1
+Cmd: disassembleShader
+  api=5 insize=6650 outsize=6650 ok=1
+Cmd: disassembleShader
+  api=5 insize=6757 outsize=6757 ok=1
+Cmd: disassembleShader
+  api=9 insize=6363 outsize=6363 ok=1
+Cmd: disassembleShader
+  api=9 insize=6469 outsize=6469 ok=1
+Cmd: disassembleShader
+  api=9 insize=7804 outsize=7804 ok=1
+Cmd: disassembleShader
+  api=9 insize=7912 outsize=7912 ok=1
+Cmd: disassembleShader
+  api=9 insize=7692 outsize=7692 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=9039 kw=UNITY_PASS_FORWARDADD DIRECTIONAL_COOKIE _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9039 outsize=9039 ok=1
+Cmd: disassembleShader
+  api=9 insize=6085 outsize=6085 ok=1
+Cmd: disassembleShader
+  api=9 insize=7420 outsize=7420 ok=1
+Cmd: disassembleShader
+  api=9 insize=7528 outsize=7528 ok=1
+Cmd: disassembleShader
+  api=9 insize=10180 outsize=10180 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=11527 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11527 outsize=11527 ok=1
+Cmd: disassembleShader
+  api=9 insize=8608 outsize=8608 ok=1
+Cmd: disassembleShader
+  api=9 insize=9940 outsize=9940 ok=1
+Cmd: disassembleShader
+  api=9 insize=10073 outsize=10073 ok=1
+Cmd: disassembleShader
+  api=9 insize=10816 outsize=10816 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=12163 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH SHADOWS_SOFT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=12163 outsize=12163 ok=1
+Cmd: disassembleShader
+  api=5 insize=8099 outsize=8099 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=7040 kw=UNITY_PASS_FORWARDADD DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7040 outsize=7040 ok=1
+Cmd: disassembleShader
+  api=5 insize=7327 outsize=7327 ok=1
+Cmd: disassembleShader
+  api=9 insize=8607 outsize=8607 ok=1
+Cmd: disassembleShader
+  api=9 insize=6810 outsize=6810 ok=1
+Cmd: disassembleShader
+  api=9 insize=6904 outsize=6904 ok=1
+Cmd: disassembleShader
+  api=9 insize=7013 outsize=7013 ok=1
+Cmd: disassembleShader
+  api=5 insize=7353 outsize=7353 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=9141 kw=UNITY_PASS_FORWARDADD DIRECTIONAL_COOKIE SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=9141 outsize=9141 ok=1
+Cmd: disassembleShader
+  api=5 insize=8011 outsize=8011 ok=1
+Cmd: disassembleShader
+  api=9 insize=7922 outsize=7922 ok=1
+Cmd: disassembleShader
+  api=9 insize=8015 outsize=8015 ok=1
+Cmd: disassembleShader
+  api=9 insize=9367 outsize=9367 ok=1
+Cmd: disassembleShader
+  api=9 insize=9508 outsize=9508 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=8433 kw=UNITY_PASS_FORWARDADD POINT SHADOWS_CUBE _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8433 outsize=8433 ok=1
+Cmd: disassembleShader
+  api=9 insize=9973 outsize=9973 ok=1
+Cmd: disassembleShader
+  api=9 insize=9477 outsize=9477 ok=1
+Cmd: disassembleShader
+  api=9 insize=7143 outsize=7143 ok=1
+Cmd: disassembleShader
+  api=9 insize=8586 outsize=8586 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=10030 kw=UNITY_PASS_FORWARDADD POINT SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=10030 outsize=10030 ok=1
+Cmd: disassembleShader
+  api=5 insize=10012 outsize=10012 ok=1
+Cmd: disassembleShader
+  api=9 insize=10546 outsize=10546 ok=1
+Cmd: disassembleShader
+  api=5 insize=7518 outsize=7518 ok=1
+Cmd: disassembleShader
+  api=9 insize=9034 outsize=9034 ok=1
+Cmd: disassembleShader
+  api=9 insize=7860 outsize=7860 ok=1
+Cmd: disassembleShader
+  api=9 insize=10366 outsize=10366 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1460 outsize=11256 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11256 outsize=11256 ok=1
+Cmd: disassembleShader
+  api=9 insize=8221 outsize=8221 ok=1
+Cmd: disassembleShader
+  api=5 insize=8218 outsize=8218 ok=1
+Cmd: disassembleShader
+  api=5 insize=6996 outsize=6996 ok=1
+Cmd: disassembleShader
+  api=5 insize=8434 outsize=8434 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=11061 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=11061 outsize=11061 ok=1
+Cmd: disassembleShader
+  api=5 insize=7339 outsize=7339 ok=1
+Cmd: disassembleShader
+  api=5 insize=8608 outsize=8608 ok=1
+Cmd: disassembleShader
+  api=9 insize=9106 outsize=9106 ok=1
+Cmd: disassembleShader
+  api=9 insize=10426 outsize=10426 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1460 outsize=7515 kw=UNITY_PASS_FORWARDADD POINT _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7515 outsize=7515 ok=1
+Cmd: disassembleShader
+  api=9 insize=7887 outsize=7887 ok=1
+Cmd: disassembleShader
+  api=9 insize=8024 outsize=8024 ok=1
+Cmd: disassembleShader
+  api=9 insize=7383 outsize=7383 ok=1
+Cmd: disassembleShader
+  api=9 insize=6214 outsize=6214 ok=1
+Cmd: disassembleShader
+  api=9 insize=7634 outsize=7634 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD SPOT _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT_COOKIE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD DIRECTIONAL_COOKIE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH SHADOWS_SOFT _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD DIRECTIONAL SHADOWS_SCREEN _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT SHADOWS_CUBE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1460 outsize=0 kw=UNITY_PASS_FORWARDADD POINT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=2531 outsize=2531 ok=1
+Cmd: disassembleShader
+  api=5 insize=2097 outsize=2097 ok=1
+Cmd: disassembleShader
+  api=5 insize=2097 outsize=2097 ok=1
+Cmd: disassembleShader
+  api=5 insize=2097 outsize=2097 ok=1
+Cmd: disassembleShader
+  api=9 insize=2798 outsize=2798 ok=1
+Cmd: disassembleShader
+  api=9 insize=3025 outsize=3025 ok=1
+Cmd: disassembleShader
+  api=5 insize=3407 outsize=3407 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=5091 outsize=5091 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1554 outsize=7922 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=7922 outsize=7922 ok=1
+Cmd: disassembleShader
+  api=9 insize=6774 outsize=6774 ok=1
+Cmd: disassembleShader
+  api=5 insize=6098 outsize=6098 ok=1
+Cmd: disassembleShader
+  api=5 insize=6131 outsize=6131 ok=1
+Cmd: disassembleShader
+  api=5 insize=7403 outsize=7403 ok=1
+Cmd: disassembleShader
+  api=5 insize=6117 outsize=6117 ok=1
+Cmd: disassembleShader
+  api=5 insize=6238 outsize=6238 ok=1
+Cmd: disassembleShader
+  api=5 insize=7507 outsize=7507 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1554 outsize=7600 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7600 outsize=7600 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1554 outsize=5726 kw=UNITY_PASS_DEFERRED UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=5726 outsize=5726 ok=1
+Cmd: disassembleShader
+  api=9 insize=6793 outsize=6793 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1554 outsize=6856 kw=UNITY_PASS_DEFERRED _EMISSION UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=6856 outsize=6856 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1554 outsize=7903 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=7903 outsize=7903 ok=1
+Cmd: disassembleShader
+  api=5 insize=7461 outsize=7461 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1554 outsize=7554 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7554 outsize=7554 ok=1
+Cmd: disassembleShader
+  api=5 insize=4383 outsize=4383 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1554 outsize=5726 kw=UNITY_PASS_DEFERRED _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=5726 outsize=5726 ok=1
+Cmd: disassembleShader
+  api=9 insize=6562 outsize=6562 ok=1
+Cmd: disassembleShader
+  api=9 insize=6625 outsize=6625 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED _EMISSION UNITY_HDR_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1554 outsize=0 kw=UNITY_PASS_DEFERRED _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=9417 outsize=9417 ok=1
+Cmd: disassembleShader
+  api=5 insize=8380 outsize=8380 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=9381 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=9381 outsize=9381 ok=1
+Cmd: disassembleShader
+  api=9 insize=9307 outsize=9307 ok=1
+Cmd: disassembleShader
+  api=9 insize=8898 outsize=8898 ok=1
+Cmd: disassembleShader
+  api=9 insize=9856 outsize=9856 ok=1
+Cmd: disassembleShader
+  api=9 insize=8895 outsize=8895 ok=1
+Cmd: disassembleShader
+  api=5 insize=8986 outsize=8986 ok=1
+Cmd: disassembleShader
+  api=5 insize=8986 outsize=8986 ok=1
+Cmd: disassembleShader
+  api=5 insize=6522 outsize=6522 ok=1
+Cmd: disassembleShader
+  api=5 insize=6971 outsize=6971 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=7993 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7993 outsize=7993 ok=1
+Cmd: disassembleShader
+  api=5 insize=7066 outsize=7066 ok=1
+Cmd: disassembleShader
+  api=5 insize=7897 outsize=7897 ok=1
+Cmd: disassembleShader
+  api=5 insize=8373 outsize=8373 ok=1
+Cmd: disassembleShader
+  api=5 insize=9545 outsize=9545 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=10642 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=10642 outsize=10642 ok=1
+Cmd: disassembleShader
+  api=5 insize=7376 outsize=7376 ok=1
+Cmd: disassembleShader
+  api=9 insize=10551 outsize=10551 ok=1
+Cmd: disassembleShader
+  api=9 insize=10775 outsize=10775 ok=1
+Cmd: disassembleShader
+  api=9 insize=10709 outsize=10709 ok=1
+Cmd: disassembleShader
+  api=9 insize=9317 outsize=9317 ok=1
+Cmd: disassembleShader
+  api=9 insize=9516 outsize=9516 ok=1
+Cmd: disassembleShader
+  api=9 insize=10610 outsize=10610 ok=1
+Cmd: disassembleShader
+  api=9 insize=10834 outsize=10834 ok=1
+Cmd: disassembleShader
+  api=9 insize=9400 outsize=9400 ok=1
+Cmd: disassembleShader
+  api=9 insize=9599 outsize=9599 ok=1
+Cmd: disassembleShader
+  api=9 insize=9423 outsize=9423 ok=1
+Cmd: disassembleShader
+  api=5 insize=9759 outsize=9759 ok=1
+Cmd: disassembleShader
+  api=5 insize=9939 outsize=9939 ok=1
+Cmd: disassembleShader
+  api=5 insize=9835 outsize=9835 ok=1
+Cmd: disassembleShader
+  api=5 insize=7329 outsize=7329 ok=1
+Cmd: disassembleShader
+  api=5 insize=7531 outsize=7531 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=8668 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8668 outsize=8668 ok=1
+Cmd: disassembleShader
+  api=9 insize=10187 outsize=10187 ok=1
+Cmd: disassembleShader
+  api=9 insize=10455 outsize=10455 ok=1
+Cmd: disassembleShader
+  api=9 insize=12150 outsize=12150 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=11706 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11706 outsize=11706 ok=1
+Cmd: disassembleShader
+  api=5 insize=11011 outsize=11011 ok=1
+Cmd: disassembleShader
+  api=9 insize=12144 outsize=12144 ok=1
+Cmd: disassembleShader
+  api=9 insize=12343 outsize=12343 ok=1
+Cmd: disassembleShader
+  api=9 insize=12206 outsize=12206 ok=1
+Cmd: disassembleShader
+  api=5 insize=8660 outsize=8660 ok=1
+Cmd: disassembleShader
+  api=5 insize=10019 outsize=10019 ok=1
+Cmd: disassembleShader
+  api=5 insize=10236 outsize=10236 ok=1
+Cmd: disassembleShader
+  api=5 insize=8567 outsize=8567 ok=1
+Cmd: disassembleShader
+  api=5 insize=8784 outsize=8784 ok=1
+Cmd: disassembleShader
+  api=5 insize=8552 outsize=8552 ok=1
+Cmd: disassembleShader
+  api=5 insize=8769 outsize=8769 ok=1
+Cmd: disassembleShader
+  api=5 insize=10132 outsize=10132 ok=1
+Cmd: disassembleShader
+  api=5 insize=10349 outsize=10349 ok=1
+Cmd: disassembleShader
+  api=5 insize=10205 outsize=10205 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=12443 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=12443 outsize=12443 ok=1
+Cmd: disassembleShader
+  api=9 insize=8913 outsize=8913 ok=1
+Cmd: disassembleShader
+  api=9 insize=10369 outsize=10369 ok=1
+Cmd: disassembleShader
+  api=9 insize=11728 outsize=11728 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=11873 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11873 outsize=11873 ok=1
+Cmd: disassembleShader
+  api=5 insize=6846 outsize=6846 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=9069 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9069 outsize=9069 ok=1
+Cmd: disassembleShader
+  api=5 insize=5260 outsize=5260 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=6576 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL VERTEXLIGHT_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=6576 outsize=6576 ok=1
+Cmd: disassembleShader
+  api=9 insize=6516 outsize=6516 ok=1
+Cmd: disassembleShader
+  api=9 insize=7685 outsize=7685 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=7707 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=7707 outsize=7707 ok=1
+Cmd: disassembleShader
+  api=5 insize=9242 outsize=9242 ok=1
+Cmd: disassembleShader
+  api=9 insize=10479 outsize=10479 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=10699 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=10699 outsize=10699 ok=1
+Cmd: disassembleShader
+  api=5 insize=10295 outsize=10295 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=11334 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11334 outsize=11334 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=10110 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=10110 outsize=10110 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=11775 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN VERTEXLIGHT_ON _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11775 outsize=11775 ok=1
+Cmd: disassembleShader
+  api=9 insize=9493 outsize=9493 ok=1
+Cmd: disassembleShader
+  api=9 insize=9729 outsize=9729 ok=1
+Cmd: disassembleShader
+  api=9 insize=8001 outsize=8001 ok=1
+Cmd: disassembleShader
+  api=5 insize=8611 outsize=8611 ok=1
+Cmd: disassembleShader
+  api=5 insize=8431 outsize=8431 ok=1
+Cmd: disassembleShader
+  api=5 insize=8611 outsize=8611 ok=1
+Cmd: disassembleShader
+  api=9 insize=9602 outsize=9602 ok=1
+Cmd: disassembleShader
+  api=9 insize=9838 outsize=9838 ok=1
+Cmd: disassembleShader
+  api=9 insize=9669 outsize=9669 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=9905 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9905 outsize=9905 ok=1
+Cmd: disassembleShader
+  api=9 insize=7423 outsize=7423 ok=1
+Cmd: disassembleShader
+  api=9 insize=7659 outsize=7659 ok=1
+Cmd: disassembleShader
+  api=9 insize=9182 outsize=9182 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=9249 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _EMISSION VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9249 outsize=9249 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=12179 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=12179 outsize=12179 ok=1
+Cmd: disassembleShader
+  api=9 insize=10075 outsize=10075 ok=1
+Cmd: disassembleShader
+  api=9 insize=10311 outsize=10311 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1406 outsize=11704 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=11704 outsize=11704 ok=1
+Cmd: disassembleShader
+  api=5 insize=11933 outsize=11933 ok=1
+Cmd: disassembleShader
+  api=5 insize=12403 outsize=12403 ok=1
+Cmd: disassembleShader
+  api=5 insize=7023 outsize=7023 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=7860 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7860 outsize=7860 ok=1
+Cmd: disassembleShader
+  api=9 insize=7817 outsize=7817 ok=1
+Cmd: disassembleShader
+  api=9 insize=7115 outsize=7115 ok=1
+Cmd: disassembleShader
+  api=9 insize=7376 outsize=7376 ok=1
+Cmd: disassembleShader
+  api=9 insize=8153 outsize=8153 ok=1
+Cmd: disassembleShader
+  api=9 insize=8525 outsize=8525 ok=1
+Cmd: disassembleShader
+  api=9 insize=7112 outsize=7112 ok=1
+Cmd: disassembleShader
+  api=9 insize=7373 outsize=7373 ok=1
+Cmd: disassembleShader
+  api=9 insize=7243 outsize=7243 ok=1
+Cmd: disassembleShader
+  api=9 insize=7504 outsize=7504 ok=1
+Cmd: disassembleShader
+  api=9 insize=8313 outsize=8313 ok=1
+Cmd: disassembleShader
+  api=9 insize=8549 outsize=8549 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=7787 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=7787 outsize=7787 ok=1
+Cmd: disassembleShader
+  api=5 insize=5253 outsize=5253 ok=1
+Cmd: disassembleShader
+  api=9 insize=6516 outsize=6516 ok=1
+Cmd: disassembleShader
+  api=5 insize=6620 outsize=6620 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1406 outsize=6642 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=6642 outsize=6642 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _NORMALMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1406 outsize=0 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=7062 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=7062 outsize=7062 ok=1
+Cmd: disassembleShader
+  api=9 insize=6063 outsize=6063 ok=1
+Cmd: disassembleShader
+  api=5 insize=5184 outsize=5184 ok=1
+Cmd: disassembleShader
+  api=9 insize=5056 outsize=5056 ok=1
+Cmd: disassembleShader
+  api=9 insize=6167 outsize=6167 ok=1
+Cmd: disassembleShader
+  api=9 insize=5883 outsize=5883 ok=1
+Cmd: disassembleShader
+  api=9 insize=7569 outsize=7569 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=8667 kw=UNITY_PASS_FORWARDADD SPOT _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=8667 outsize=8667 ok=1
+Cmd: disassembleShader
+  api=9 insize=6613 outsize=6613 ok=1
+Cmd: disassembleShader
+  api=9 insize=7802 outsize=7802 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=8488 kw=UNITY_PASS_FORWARDADD POINT_COOKIE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=8488 outsize=8488 ok=1
+Cmd: disassembleShader
+  api=9 insize=7213 outsize=7213 ok=1
+Cmd: disassembleShader
+  api=9 insize=6458 outsize=6458 ok=1
+Cmd: disassembleShader
+  api=9 insize=6505 outsize=6505 ok=1
+Cmd: disassembleShader
+  api=9 insize=7662 outsize=7662 ok=1
+Cmd: disassembleShader
+  api=9 insize=7316 outsize=7316 ok=1
+Cmd: disassembleShader
+  api=9 insize=6992 outsize=6992 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=8074 kw=UNITY_PASS_FORWARDADD DIRECTIONAL_COOKIE _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=8074 outsize=8074 ok=1
+Cmd: disassembleShader
+  api=5 insize=4765 outsize=4765 ok=1
+Cmd: disassembleShader
+  api=5 insize=5961 outsize=5961 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1268 outsize=8098 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8098 outsize=8098 ok=1
+Cmd: disassembleShader
+  api=5 insize=7070 outsize=7070 ok=1
+Cmd: disassembleShader
+  api=9 insize=8555 outsize=8555 ok=1
+Cmd: disassembleShader
+  api=5 insize=5901 outsize=5901 ok=1
+Cmd: disassembleShader
+  api=9 insize=8579 outsize=8579 ok=1
+Cmd: disassembleShader
+  api=9 insize=7535 outsize=7535 ok=1
+Cmd: disassembleShader
+  api=9 insize=8825 outsize=8825 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=9842 kw=UNITY_PASS_FORWARDADD DIRECTIONAL SHADOWS_SCREEN _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9842 outsize=9842 ok=1
+Cmd: disassembleShader
+  api=5 insize=7434 outsize=7434 ok=1
+Cmd: disassembleShader
+  api=9 insize=6904 outsize=6904 ok=1
+Cmd: disassembleShader
+  api=9 insize=5898 outsize=5898 ok=1
+Cmd: disassembleShader
+  api=9 insize=7175 outsize=7175 ok=1
+Cmd: disassembleShader
+  api=9 insize=6599 outsize=6599 ok=1
+Cmd: disassembleShader
+  api=9 insize=7710 outsize=7710 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=9209 kw=UNITY_PASS_FORWARDADD DIRECTIONAL_COOKIE SHADOWS_SCREEN _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9209 outsize=9209 ok=1
+Cmd: disassembleShader
+  api=9 insize=9732 outsize=9732 ok=1
+Cmd: disassembleShader
+  api=5 insize=7693 outsize=7693 ok=1
+Cmd: disassembleShader
+  api=9 insize=8015 outsize=8015 ok=1
+Cmd: disassembleShader
+  api=9 insize=9367 outsize=9367 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1268 outsize=8214 kw=UNITY_PASS_FORWARDADD POINT SHADOWS_CUBE _NORMALMAP pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=5 insize=8214 outsize=8214 ok=1
+Cmd: disassembleShader
+  api=5 insize=7234 outsize=7234 ok=1
+Cmd: disassembleShader
+  api=9 insize=7223 outsize=7223 ok=1
+Cmd: disassembleShader
+  api=5 insize=6309 outsize=6309 ok=1
+Cmd: disassembleShader
+  api=5 insize=7448 outsize=7448 ok=1
+Cmd: disassembleShader
+  api=9 insize=7869 outsize=7869 ok=1
+Cmd: disassembleShader
+  api=9 insize=8050 outsize=8050 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1268 outsize=9529 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE _NORMALMAP _ALPHAPREMULTIPLY_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: disassembleShader
+  api=9 insize=9529 outsize=9529 ok=1
