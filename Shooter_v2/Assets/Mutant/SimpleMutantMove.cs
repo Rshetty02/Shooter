@@ -11,13 +11,19 @@ public class SimpleMutantMove : MonoBehaviour
     NavMeshAgent theAgent;
     void Start()
     {
-        theAgent = GetComponent<NavMeshAgent>();
+       // theAgent = GetComponent<NavMeshAgent>();
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        theAgent.SetDestination(theDestination.transform.position);
+        //theAgent.SetDestination(theDestination.transform.position);
+        
+        
     }
+
+
+
+
 }

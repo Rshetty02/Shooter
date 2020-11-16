@@ -12,6 +12,8 @@ public class EnemyDeath : MonoBehaviour
     void DamageEnemy(int damageAmount){
         if(PlayerInputHandler.fireButtonbool == true){
         enemyHealth -= damageAmount;
+        //this.GetComponent<Animator>().Play("Damage1",-1,0);
+        //this.GetComponent<Animator>().Play("Damage1");
         Debug.Log(enemyHealth);
         }
 
