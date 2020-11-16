@@ -19,6 +19,8 @@ public class MutantAI : MonoBehaviour
     NavMeshAgent theAgent;
 
     public Vector3 Offset; 
+
+    public int rando;
     
 
     public GameObject theDestination;
@@ -89,11 +91,23 @@ public class MutantAI : MonoBehaviour
 
 
     IEnumerator Attack(){
+
+        rando = Random.Range(0,1);
         if(isAttacking == true){
         Debug.Log("Attacking");
-        
+        this.GetComponent<Animator>().Play("Attack "+rando);
+        /*
+        if(rando==0){
         this.GetComponent<Animator>().Play("Mutant Swiping");
+        yield return new WaitForSeconds(10f);
+        }
+        else if(rando == 1){
+        this.GetComponent<Animator>().Play("Mutant Punch");
+        yield return new WaitForSeconds(10f);
+        }
         //this.GetComponent<Animator>().Play("Mutant Swiping",-1,0);
+        yield return new WaitForSeconds(3);
+        */
         yield return new WaitForSeconds(3);
         Health h = thePlayer.GetComponent<Health>();
         h.currentHealth -= 0.05f;
