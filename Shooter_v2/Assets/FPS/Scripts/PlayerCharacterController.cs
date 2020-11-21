@@ -56,6 +56,8 @@ public class PlayerCharacterController : MonoBehaviour
     [Tooltip("Speed of crouching transitions")]
     public float crouchingSharpness = 10f;
 
+    public Joystick jumpButoon;
+
     [Header("Audio")]
     [Tooltip("Amount of footstep sounds played when moving one meter")]
     public float footstepSFXFrequency = 1f;
@@ -280,7 +282,8 @@ public class PlayerCharacterController : MonoBehaviour
                 characterVelocity = Vector3.Lerp(characterVelocity, targetVelocity, movementSharpnessOnGround * Time.deltaTime);
 
                 // jumping
-                if (isGrounded && m_InputHandler.GetJumpInputDown())
+                //if (isGrounded && m_InputHandler.GetJumpInputDown())
+                if (isGrounded && (jumpButoon.Horizontal != 0))
                 {
                     // force the crouch state to false
                     if (SetCrouchingState(false, false))
