@@ -92,10 +92,10 @@ public class MutantAI : MonoBehaviour
 
     IEnumerator Attack(){
 
-        rando = Random.Range(0,1);
+        //rando = Random.Range(0,1);
         if(isAttacking == true){
         Debug.Log("Attacking");
-        this.GetComponent<Animator>().Play("Attack "+rando);
+        this.GetComponent<Animator>().Play("Attack 0");
         /*
         if(rando==0){
         this.GetComponent<Animator>().Play("Mutant Swiping");
@@ -108,7 +108,7 @@ public class MutantAI : MonoBehaviour
         //this.GetComponent<Animator>().Play("Mutant Swiping",-1,0);
         yield return new WaitForSeconds(3);
         */
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(5);
         Health h = thePlayer.GetComponent<Health>();
         h.currentHealth -= 0.05f;
         h.HandleDeath(); 

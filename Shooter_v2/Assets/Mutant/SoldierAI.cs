@@ -21,7 +21,7 @@ public class SoldierAI : MonoBehaviour
     {
         RaycastHit hit;
 
-        if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.forward),out hit,100)){
+        if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.forward),out hit,10)){
             hitTag = hit.transform.tag;
         }
         if(hitTag == "Player" && isfiring == false){
