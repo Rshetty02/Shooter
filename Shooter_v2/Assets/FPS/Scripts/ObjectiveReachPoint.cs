@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Objective), typeof(Collider))]
 public class ObjectiveReachPoint : MonoBehaviour
@@ -30,6 +31,7 @@ public class ObjectiveReachPoint : MonoBehaviour
 
             // destroy the transform, will remove the compass marker if it has one
             Destroy(destroyRoot.gameObject); 
+             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
