@@ -27,6 +27,7 @@ public class MutantDeath : MonoBehaviour
             //theEnemy.SetActive(false);
             theEnemy.GetComponent<MutantAI>().enabled = false;
             theEnemy.GetComponent<LookPlayer>().enabled = false;
+            //theEnemy.GetComponent<BoxCollider>().enabled = false;
 
         }
         
