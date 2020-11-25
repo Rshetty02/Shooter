@@ -36,10 +36,10 @@ public class MutantAI : MonoBehaviour
         
     RaycastHit hit;
 
-        if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.forward),out hit)){
+        if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.forward),out hit,50)){
             hitTag = hit.transform.tag;
         }
-        if(hitTag == "Player" && isRunning == false && isAttacking == false){
+        if((hitTag == "Player" || hitTag == "MainCamera") && isRunning == false && isAttacking == false){
             //GameObject bulletObject = Instantiate(bullet,transform.position,transform.rotation);
             //bulletObject.transform.position = transform.position;
             StartCoroutine(EnemyRun());
@@ -48,8 +48,9 @@ public class MutantAI : MonoBehaviour
             
             
         }
-        if(hitTag != "Player"){
+        if(hitTag != "Player" && hitTag != "MainCamera"){
             Debug.Log("Starting Idle");
+            Debug.Log(hitTag);
             theSoldier.GetComponent<Animator>().Play("Mutant Idle");
             theAgent.ResetPath();
             lookingAtPlayer = false;    
@@ -117,7 +118,7 @@ public class MutantAI : MonoBehaviour
     }
         private void OnTriggerEnter(Collider other) {                                                                       
   
-        if(other.tag == "Player" && isAttacking == false){  
+        if((other.tag == "Player" || other.tag == "MainCamera") && isAttacking == false){  
         isRunning = false;
         isAttacking = true; 
         /*
@@ -132,7 +133,7 @@ public class MutantAI : MonoBehaviour
 
         void OnTriggerExit(Collider other)
         {
-            if(other.tag == "Player"){
+            if(other.tag == "Player" || other.tag == "MainCamera"){
                 isAttacking = false;
             }
         }

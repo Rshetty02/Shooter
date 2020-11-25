@@ -18,6 +18,13 @@ public class MutantDeath : MonoBehaviour
         }
 
     }
+
+
+     void Start() {
+        if(this.tag == "warrok"){
+        enemyHealth = 200; 
+        }
+    }
     // Update is called once per frame
     void Update()
     {
