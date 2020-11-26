@@ -714,6 +714,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 39852925}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &39852927
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1429,6 +1430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 101926755}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &101926757
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1562,6 +1564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 130474909}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &130474911
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1733,6 +1736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 146613633}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &146613635
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1892,6 +1896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 148310830}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &148310832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2303,6 +2308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 175349851}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &175349853
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2588,6 +2594,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 195477348}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &195477350
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2880,6 +2887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 213878667}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &213878669
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3045,6 +3053,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 218827875}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &218827877
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3888,6 +3897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 317553055}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &317553057
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4244,6 +4254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 350392322}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &350392324
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4610,6 +4621,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 386292774}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &386292776
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5174,6 +5186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 426177972}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &426177974
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5465,6 +5478,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 437355042}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &437355044
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5762,6 +5776,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 455800185}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &455800187
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6128,6 +6143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 466287764}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &466287766
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7768,6 +7784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 583927424}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &583927426
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7858,6 +7875,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 586599798}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &586599800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8309,6 +8327,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 637366199}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &637366201
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8561,6 +8580,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 647122074}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &647122076
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8731,6 +8751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 665204311}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &665204313
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9020,6 +9041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 699048976}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &699048978
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9110,6 +9132,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 702463617}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &702463619
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9582,6 +9605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 732048971}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &732048973
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9810,6 +9834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 757970093}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &757970095
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10780,6 +10805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 869436609}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &869436611
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11347,6 +11373,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 929979618}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &929979620
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13426,6 +13453,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1118073501}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1118073503
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13585,6 +13613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1120843444}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1120843446
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13675,6 +13704,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1127714934}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1127714936
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13840,6 +13870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1152446034}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1152446036
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14029,6 +14060,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1166709898}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1166709900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15783,6 +15815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1316140820}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1316140822
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15942,6 +15975,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1329283761}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1329283763
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16116,6 +16150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1338067161}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1338067163
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16511,6 +16546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1369335292}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1369335294
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16808,6 +16844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1385520634}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1385520636
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17311,6 +17348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1441116893}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1441116895
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17563,6 +17601,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1466806128}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1466806130
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17941,6 +17980,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1508394974}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1508394976
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18100,6 +18140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1534463752}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1534463754
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18203,6 +18244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1537264442}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!1001 &1537500800
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18412,6 +18454,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1544481604}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1544481606
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18907,6 +18950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1592865320}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1592865322
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20013,6 +20057,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1758197336}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1758197338
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20388,6 +20433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1785299012}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1785299014
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21854,6 +21900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 1971540233}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &1971540235
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22673,6 +22720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 2062249148}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &2062249150
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22912,6 +22960,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 2093679104}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &2093679106
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23180,6 +23229,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 2114673123}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &2114673125
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23845,6 +23895,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 2144948318}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &2144948320
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23935,6 +23986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goldIngots: {fileID: 2145026894}
   collectSound: {fileID: 243588873}
+  score: 0
 --- !u!65 &2145026896
 BoxCollider:
   m_ObjectHideFlags: 0

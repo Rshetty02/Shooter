@@ -123,8 +123,10 @@
      <Compile Include="Assets\Medieval_Gold\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
      <Compile Include="Assets\Mountain Terrain\Misc\CameraDefault.cs" />
      <Compile Include="Assets\Mutant\EnemyDeath.cs" />
+     <Compile Include="Assets\Mutant\GlobalScore.cs" />
      <Compile Include="Assets\Mutant\GolabalScore.cs" />
      <Compile Include="Assets\Mutant\GoldPickup.cs" />
+     <Compile Include="Assets\Mutant\GoldScore.cs" />
      <Compile Include="Assets\Mutant\LookPlayer.cs" />
      <Compile Include="Assets\Mutant\MutantAI.cs" />
      <Compile Include="Assets\Mutant\MutantDeath.cs" />

@@ -7,6 +7,8 @@ public class ObjectiveReachPoint : MonoBehaviour
     [Tooltip("Visible transform that will be destroyed once the objective is completed")]
     public Transform destroyRoot;
 
+    public int score;
+
     Objective m_Objective;
 
     void Awake()
@@ -28,7 +30,9 @@ public class ObjectiveReachPoint : MonoBehaviour
         if (player != null)
         {
             m_Objective.CompleteObjective(string.Empty, string.Empty, "Objective complete : " + m_Objective.title);
-
+            
+            score = GolabalScore.scoreValue + PlayerPrefs.GetInt("HighScore");
+            PlayerPrefs.SetInt("HighScore",score);
             // destroy the transform, will remove the compass marker if it has one
             Destroy(destroyRoot.gameObject); 
              SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
