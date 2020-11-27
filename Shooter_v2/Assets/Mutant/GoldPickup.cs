@@ -16,7 +16,7 @@ public class GoldPickup : MonoBehaviour
         if(other.tag == "Player"){
         collectSound.Play();
         GolabalScore.scoreValue += 1;
-        //score = PlayerPrefs.GetInt("HighScore") + 1;
+        //score = PlayerPrefs.GetInt("HighScore") + GolabalScore.scoreValue;
         //PlayerPrefs.SetInt("HighScore",score);
 
 

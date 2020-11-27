@@ -13,6 +13,16 @@ public class GlobalScore : MonoBehaviour
     public GameObject CashDisplay;
 
     // Start is called before the first frame update
+    private void Start() {
+
+        HighScore = PlayerPrefs.GetInt("HighScore");
+
+        CashDisplay.GetComponent<Text>().text = "Total Points :" + HighScore.ToString();
+
+
+    }
+
+
      void Update() {
 
         HighScore = PlayerPrefs.GetInt("HighScore");
