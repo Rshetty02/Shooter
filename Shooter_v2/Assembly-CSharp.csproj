@@ -127,12 +127,15 @@
      <Compile Include="Assets\Mutant\GolabalScore.cs" />
      <Compile Include="Assets\Mutant\GoldPickup.cs" />
      <Compile Include="Assets\Mutant\GoldScore.cs" />
+     <Compile Include="Assets\Mutant\GunAmmoLevelSel.cs" />
+     <Compile Include="Assets\Mutant\LoadGunsAndAmmo.cs" />
      <Compile Include="Assets\Mutant\LoadMainMenu.cs" />
      <Compile Include="Assets\Mutant\LookPlayer.cs" />
      <Compile Include="Assets\Mutant\MutantAI.cs" />
      <Compile Include="Assets\Mutant\MutantDeath.cs" />
      <Compile Include="Assets\Mutant\SimpleMutantMove.cs" />
      <Compile Include="Assets\Mutant\SoldierAI.cs" />
+     <Compile Include="Assets\Mutant\onPlay.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
