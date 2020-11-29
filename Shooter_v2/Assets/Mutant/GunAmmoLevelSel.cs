@@ -6,16 +6,16 @@ public class GunAmmoLevelSel : MonoBehaviour
 {
     public static int gunVar =1;
 
-    public static bool DualBlaster = false;
+    public static bool DualBlastervar = false;
 
-    public static bool TripleBlaster = false;
+    public static bool TripleBlastervar = false;
 
     public static bool SingleLauncher = false;
-    public static bool DualLauncher = false;
-    public static bool TripleLauncher = false;
+    public static bool DualLaunchervar = false;
+    public static bool TripleLaunchervar = false;
     public static bool simpleShotgun = false;
-    public static bool ShotgunPlus = false;
-    public static bool UltimateShotgn = false;
+    public static bool ShotgunPlusvar = false;
+    public static bool UltimateShotgunvar = false;
 
 
     public static int levelVar =1;
@@ -47,6 +47,7 @@ public class GunAmmoLevelSel : MonoBehaviour
 
     public void GunSelectionShotGun(){
         gunVar = 3;
+        simpleShotgun= true;
     }
 
     public void FirstLevel(){
@@ -63,26 +64,34 @@ public class GunAmmoLevelSel : MonoBehaviour
 
     public void DualBlaster(){
         gunVar = 4;
+        DualBlastervar = true;
     }
 
     public void TripleBLaster(){
         gunVar = 5;
+        TripleBlastervar = true;
+        
     }
 
     public void DualLauncher(){
         gunVar = 6;
+        DualBlastervar = true;
     }
 
-    public void TripleLaunvcher(){
+    public void TripleLauncher(){
         gunVar = 7;
+        TripleLaunchervar = true;
     }
 
     public void ShotgunPlus(){
         gunVar = 8;
+        ShotgunPlusvar = true;
     }
 
     public void UltimateShotgun(){
         gunVar = 9;
+        UltimateShotgunvar = true;
+
     }
 
 }

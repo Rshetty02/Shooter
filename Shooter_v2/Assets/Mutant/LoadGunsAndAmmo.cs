@@ -9,13 +9,29 @@ public class LoadGunsAndAmmo : MonoBehaviour
     //public GameObject Blaster;
     public GameObject Launcher;
     public GameObject Shotgun;
+    public GameObject DualBlaster;
+    public GameObject TripleBlaster;
+    public GameObject ShotGunPlus;
+    public GameObject UltimateShotgun;
+    public GameObject DualLauncher;
+    public GameObject TripleLauncher;
+
+    public static bool DualBlastervar = GunAmmoLevelSel.DualBlastervar;
+    public static bool TripleBlastervar = GunAmmoLevelSel.TripleBlastervar;
+     public static bool SingleLauncher = GunAmmoLevelSel.SingleLauncher;
+     public static bool DualLaunchervar = GunAmmoLevelSel.DualLaunchervar;
+     public static bool TripleLaunchervar = GunAmmoLevelSel.TripleLaunchervar;
+     public static bool simpleShotgun = GunAmmoLevelSel.simpleShotgun;
+     public static bool ShotgunPlusvar = GunAmmoLevelSel.ShotgunPlusvar;
+     public static bool UltimateShotgunvar = GunAmmoLevelSel.UltimateShotgunvar;
+
 
     public int gunMode;
     // Start is called before the first frame update
     void Start()
     {
-        gunVar = GunAmmoLevelSel.gunVar;
-        gunMode = GunAmmoLevelSel.GunMode;
+        //gunVar = GunAmmoLevelSel.gunVar;
+        //gunMode = GunAmmoLevelSel.GunMode;
     }
 
     // Update is called once per frame
@@ -29,16 +45,54 @@ public class LoadGunsAndAmmo : MonoBehaviour
         }
         else
         */ 
-        if(gunVar == 2){
+        if(SingleLauncher == true){
             //Blaster.SetActive(false);
             Launcher.SetActive(true);
-            Shotgun.SetActive(false);
+            //Shotgun.SetActive(false);
         }
-        else if(gunVar == 3){
+        
+        if(simpleShotgun == true){
             //Blaster.SetActive(false);
-            Launcher.SetActive(false);
+            //Launcher.SetActive(false);
             Shotgun.SetActive(true);
         }
+
+        if(DualBlastervar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            DualBlaster.SetActive(true);
+        }
+
+        if(TripleBlastervar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            TripleBlaster.SetActive(true);
+        }
+
+        if(DualLaunchervar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            DualLauncher.SetActive(true);
+        }
+
+        if(TripleLaunchervar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            TripleLauncher.SetActive(true);
+        }
+        
+        if(ShotgunPlusvar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            ShotGunPlus.SetActive(true);
+        }
+
+        if(UltimateShotgunvar == true){
+            //Blaster.SetActive(false);
+            //Launcher.SetActive(false);
+            UltimateShotgun.SetActive(true);
+        }
+        
 
 
     }
