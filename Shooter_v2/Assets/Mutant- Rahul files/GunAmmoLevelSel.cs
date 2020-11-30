@@ -47,15 +47,15 @@ public class GunAmmoLevelSel : MonoBehaviour
     public void GunSelectionLauncher(){
         //gunVar = 2;
         SingleLauncher = true;
-        HighScore = HighScore - 50;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 50;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void GunSelectionShotGun(){
         //gunVar = 3;
         simpleShotgun= true;
-        HighScore = HighScore - 50;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 50;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void FirstLevel(){
@@ -64,53 +64,57 @@ public class GunAmmoLevelSel : MonoBehaviour
 
     public void SecondLevel(){
         levelVar = 2;
+        HighScore = HighScore - 10;
+        PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void ThirdLevel(){
         levelVar = 3;
+        HighScore = HighScore - 10;
+        PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void DualBlaster(){
         gunVar = 4;
         DualBlastervar = true;
-        HighScore = HighScore - 50;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 50;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void TripleBLaster(){
         gunVar = 5;
         TripleBlastervar = true;
-        HighScore = HighScore - 150;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 150;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
         
     }
 
     public void DualLauncher(){
         gunVar = 6;
-        DualBlastervar = true;
-        HighScore = HighScore - 150;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        DualLaunchervar = true;
+        //HighScore = HighScore - 150;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void TripleLauncher(){
         gunVar = 7;
         TripleLaunchervar = true;
-        HighScore = HighScore - 200;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 200;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void ShotgunPlus(){
         gunVar = 8;
         ShotgunPlusvar = true;
-        HighScore = HighScore - 150;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 150;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
     }
 
     public void UltimateShotgun(){
         gunVar = 9;
         UltimateShotgunvar = true;
-        HighScore = HighScore - 200;
-        PlayerPrefs.SetInt("HighScore",HighScore);
+        //HighScore = HighScore - 200;
+        //PlayerPrefs.SetInt("HighScore",HighScore);
 
     }
 
