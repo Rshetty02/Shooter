@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Advertisements;
 
-public class UnityADs : MonoBehaviour , IUnityAdsListener
+public class UnityAds : MonoBehaviour , IUnityAdsListener
 {
 
     string GooglePlayId = "3921509";
@@ -35,7 +35,7 @@ public class UnityADs : MonoBehaviour , IUnityAdsListener
         if (showResult == ShowResult.Finished) {
             // Reward the user for watching the ad to completion.
             Debug.LogWarning("You Get a reward!");
-            bonus = PlayerPrefs.GetInt("HighScore") + 200;
+            bonus = PlayerPrefs.GetInt("HighScore") + 20;
             PlayerPrefs.SetInt("HighScore",bonus);
 
         } else if (showResult == ShowResult.Skipped) {

@@ -9,6 +9,8 @@ public class ObjectiveReachPoint : MonoBehaviour
 
     public int score;
 
+    UnityAds iad = new UnityAds();
+
     Objective m_Objective;
 
     void Awake()
@@ -33,6 +35,7 @@ public class ObjectiveReachPoint : MonoBehaviour
             
             score = GolabalScore.scoreValue + PlayerPrefs.GetInt("HighScore");
             PlayerPrefs.SetInt("HighScore",score);
+            iad.DisplayInterstitialAD();
             // destroy the transform, will remove the compass marker if it has one
             Destroy(destroyRoot.gameObject); 
              SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
